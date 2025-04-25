@@ -16,7 +16,7 @@ body:
     attributes:
       label: Objetivo
       description: ¿Qué se busca lograr con esta tarea?
-      placeholder: 
+      placeholder: "Describí brevemente el objetivo de la tarea"
     validations:
       required: true
 
@@ -25,7 +25,8 @@ body:
     attributes:
       label: Detalles de implementación
       description: Explicá brevemente los pasos o componentes involucrados.
-      placeholder: |
+      placeholder: "Indicá los pasos, módulos o componentes involucrados"
+
 
     validations:
       required: true
