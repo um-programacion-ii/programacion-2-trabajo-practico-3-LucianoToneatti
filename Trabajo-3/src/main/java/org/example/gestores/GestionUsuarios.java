@@ -1,4 +1,7 @@
-package org.example;
+package org.example.gestores;
+
+import org.example.modelos.Prestamo;
+import org.example.modelos.Usuario;
 
 import java.util.ArrayList;
 import java.util.List;

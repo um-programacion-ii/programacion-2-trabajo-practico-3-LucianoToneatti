@@ -1,5 +1,7 @@
 package org.example;
 
+import org.example.estados.Estado;
+import org.example.modelos.Libro;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

@@ -1,5 +1,11 @@
 package org.example;
 
+import org.example.gestores.GestionUsuarios;
+import org.example.gestores.SistemaPrestamos;
+import org.example.modelos.Catalogo;
+import org.example.modelos.Libro;
+import org.example.modelos.Prestamo;
+import org.example.modelos.Usuario;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

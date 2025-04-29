@@ -1,6 +1,10 @@
-package org.example;
+package org.example.gestores;
 
 import lombok.Getter;
+import org.example.modelos.Catalogo;
+import org.example.estados.Estado;
+import org.example.modelos.Libro;
+import org.example.modelos.Prestamo;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

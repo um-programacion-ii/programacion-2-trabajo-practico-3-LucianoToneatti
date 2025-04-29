@@ -11,9 +11,9 @@
 - **Recomendación:** Se sugiere leer la consigna completa antes de comenzar con el desarrollo para tener una visión general del proyecto y planificar adecuadamente el trabajo.
 
 ## Identificación del Alumno
-- **Nombre:** [Nombre del Alumno]
-- **Apellido:** [Apellido del Alumno]
-- **Legajo:** [Número de Legajo]
+- **Nombre:** Luciano
+- **Apellido:** Toneatti
+- **Legajo:** 62202
 
 ## Importante
 - La rama `main` está protegida y no se pueden hacer commits directos sobre ella
@@ -222,6 +222,10 @@ El uso de Inteligencia Artificial (IA) como herramienta de asistencia en el desa
    - La IA es una herramienta de asistencia, no un sustituto del aprendizaje
    - Se espera que el estudiante demuestre su comprensión de los conceptos a través de su implementación
 
+### Uso de la IA en el proyecto
+ El uso de IA me ayudo para acomodar las dependencias de mockito y Junit5 en el pom.xml.
+ Y para preguntarle como usar lombok y mockito en los test.
+ 
 ## Recursos Adicionales
 - [Documentación de JUnit5](https://junit.org/junit5/docs/current/user-guide/)
 - [Documentación de Mockito](https://javadoc.io/doc/org.mockito/mockito-core/latest/org/mockito/Mockito.html)

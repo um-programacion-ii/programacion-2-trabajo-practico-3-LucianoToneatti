@@ -1,5 +1,8 @@
 package org.example;
 
+import org.example.estados.Estado;
+import org.example.modelos.Catalogo;
+import org.example.modelos.Libro;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import java.util.List;
