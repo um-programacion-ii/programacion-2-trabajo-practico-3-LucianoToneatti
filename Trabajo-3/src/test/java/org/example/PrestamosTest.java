@@ -12,7 +12,7 @@ import org.mockito.MockitoAnnotations;
 import java.time.LocalDate;
 import java.util.Optional;
 
-class SistemaPrestamosTest {
+class PrestamosTest {
 
     @Mock
     private Catalogo catalogo;
