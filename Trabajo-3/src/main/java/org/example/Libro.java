@@ -13,5 +13,12 @@ public class Libro {
     private String titulo;
     private String autor;
     private Estado estado;
+
+    public Libro(String isbn, String titulo, String autor) {
+        this.isbn = isbn;
+        this.titulo = titulo;
+        this.autor = autor;
+        this.estado = Estado.DISPONIBLE;
+    }
 }
 
