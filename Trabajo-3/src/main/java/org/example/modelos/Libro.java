@@ -1,8 +1,9 @@
-package org.example;
+package org.example.modelos;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import org.example.estados.Estado;
 
 @Data //Lo uso para generar los getters, setters y no escribirlos
 @AllArgsConstructor //Este genera el constructor

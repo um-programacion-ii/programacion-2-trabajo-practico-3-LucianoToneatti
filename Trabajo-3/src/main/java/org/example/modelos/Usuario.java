@@ -1,4 +1,4 @@
-package org.example;
+package org.example.modelos;
 
 import lombok.Getter;
 import lombok.Setter;

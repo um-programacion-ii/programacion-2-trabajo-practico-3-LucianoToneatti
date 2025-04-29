@@ -3,6 +3,11 @@ package org.example;
 import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.*;
 
+import org.example.estados.Estado;
+import org.example.gestores.SistemaPrestamos;
+import org.example.modelos.Catalogo;
+import org.example.modelos.Libro;
+import org.example.modelos.Prestamo;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;

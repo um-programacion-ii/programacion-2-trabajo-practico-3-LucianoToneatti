@@ -1,4 +1,6 @@
-package org.example;
+package org.example.modelos;
+
+import org.example.estados.Estado;
 
 import java.util.ArrayList;
 import java.util.List;
